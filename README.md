@@ -39,7 +39,7 @@ Follow these simple steps to get started:
 First, install **Git** from [here](https://git-scm.com/). Then, open a terminal and run:
 
 ```bash
-git clone https://github.com/MaxwellMaciel/CTI-P4-POO-20242-LISTA02.git
+git clone https://github.com/beladasx/CTI-P4-POO-20242-LISTA02.git
 ```
 
 ### 2. **Navigate to the Repository Folder**
